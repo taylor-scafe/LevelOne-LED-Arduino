@@ -2,7 +2,7 @@
 
 An arduino program to support the Level One art piece by Wesley Scafe.
 
-## The Art
+## [The Art](http://wesleyscafe.com/projects/level-1)
 
 Whenever I think about a social issue and how it could be remedied, the solution never exists in a vacuum. The problem usually has a layer of complexity that requires wider societal change to effectively solve. To pick apart something like factory farming, a practice that is cruel to both the animals involved and the workers who run them, a simple answer would be to ban the practice. No more factory farming. In theory, it’s a good idea, but for those who needed the money from that work, it’s a worse outcome. We also depend on the food they produce in our current system. The same attitude can be applied towards coal mining or logging; both of which involve dangerous work environments and are tied to environmental damage. Taking away these jobs would plunge thousands of individuals into insecure financial positions and cause supply shortages for critical resources. Rather than accept these unjust situations as necessary or too much work to fix, the better solution is to keep digging down until the actual root of the problem is found. In many scenarios, a large obstacle blocking meaningful change is the loss of jobs that comes with reforming a harmful industry. This issue can feasibly be accounted for with the creation of a universal safety net that guarantees food, water, shelter, electricity, and healthcare to everyone.
 
